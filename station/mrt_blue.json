@@ -1,0 +1,292 @@
+{
+  "line_info": {
+    "thai_name": "สายสีน้ำเงิน",
+    "english_name": "Blue Line",
+    "color": "สีน้ำเงิน",
+    "color_code": "#0066CC",
+    "total_stations": 38,
+    "total_distance_km": 48.0,
+    "train_type": "mrt",
+    "line_code": "blue_line",
+    "operator": "Mass Rapid Transit Authority of Thailand (MRTA)",
+    "line_type": "circular"
+  },
+  "stations": [
+    {
+      "station_id": "BL01",
+      "thai_name": "หลักสอง",
+      "english_name": "Lak Song",
+      "zone": "southwest"
+    },
+    {
+      "station_id": "BL02",
+      "thai_name": "บางแค",
+      "english_name": "Bang Khae",
+      "zone": "southwest"
+    },
+    {
+      "station_id": "BL03",
+      "thai_name": "ภาษีเจริญ",
+      "english_name": "Phasi Charoen",
+      "zone": "southwest"
+    },
+    {
+      "station_id": "BL04",
+      "thai_name": "บางไผ่",
+      "english_name": "Bang Phai",
+      "zone": "southwest"
+    },
+    {
+      "station_id": "BL05",
+      "thai_name": "บางหว้า",
+      "english_name": "Bang Wa",
+      "zone": "southwest"
+    },
+    {
+      "station_id": "BL06",
+      "thai_name": "เพชรเกษม 48",
+      "english_name": "Phetkasem 48",
+      "zone": "southwest"
+    },
+    {
+      "station_id": "BL07",
+      "thai_name": "ท่าพระ",
+      "english_name": "Tha Phra",
+      "zone": "west"
+    },
+    {
+      "station_id": "BL08",
+      "thai_name": "จรัญ 13",
+      "english_name": "Charan 13",
+      "zone": "west"
+    },
+    {
+      "station_id": "BL09",
+      "thai_name": "ไฟฉาย",
+      "english_name": "Fai Chai",
+      "zone": "west"
+    },
+    {
+      "station_id": "BL10",
+      "thai_name": "บางยี่ขัน",
+      "english_name": "Bang Yi Khan",
+      "zone": "west"
+    },
+    {
+      "station_id": "BL11",
+      "thai_name": "สิรินธร",
+      "english_name": "Sirindhorn",
+      "zone": "west"
+    },
+    {
+      "station_id": "BL12",
+      "thai_name": "บางพลัด",
+      "english_name": "Bang Phlat",
+      "zone": "north"
+    },
+    {
+      "station_id": "BL13",
+      "thai_name": "บางโอ",
+      "english_name": "Bang O",
+      "zone": "north"
+    },
+    {
+      "station_id": "BL14",
+      "thai_name": "บางโพ",
+      "english_name": "Bang Pho",
+      "zone": "north"
+    },
+    {
+      "station_id": "BL15",
+      "thai_name": "เตาปูน",
+      "english_name": "Tao Poon",
+      "zone": "north"
+    },
+    {
+      "station_id": "BL16",
+      "thai_name": "บางซื่อ",
+      "english_name": "Bang Sue",
+      "zone": "north"
+    },
+    {
+      "station_id": "BL17",
+      "thai_name": "กำแพงเพชร",
+      "english_name": "Kamphaeng Phet",
+      "zone": "north"
+    },
+    {
+      "station_id": "BL18",
+      "thai_name": "จตุจักร",
+      "english_name": "Chatuchak Park",
+      "zone": "north"
+    },
+    {
+      "station_id": "BL19",
+      "thai_name": "พหลโยธิน",
+      "english_name": "Phahon Yothin",
+      "zone": "north"
+    },
+    {
+      "station_id": "BL20",
+      "thai_name": "ลาดพร้าว",
+      "english_name": "Lat Phrao",
+      "zone": "northeast"
+    },
+    {
+      "station_id": "BL21",
+      "thai_name": "รัชดาภิเษก",
+      "english_name": "Ratchadaphisek",
+      "zone": "northeast"
+    },
+    {
+      "station_id": "BL22",
+      "thai_name": "สุทธิสาร",
+      "english_name": "Sutthisan",
+      "zone": "northeast"
+    },
+    {
+      "station_id": "BL23",
+      "thai_name": "ห้วยขวาง",
+      "english_name": "Huai Khwang",
+      "zone": "northeast"
+    },
+    {
+      "station_id": "BL24",
+      "thai_name": "ศูนย์วัฒนธรรมแห่งประเทศไทย",
+      "english_name": "Thailand Cultural Centre",
+      "zone": "central"
+    },
+    {
+      "station_id": "BL25",
+      "thai_name": "พระราม 9",
+      "english_name": "Phra Ram 9",
+      "zone": "east"
+    },
+    {
+      "station_id": "BL26",
+      "thai_name": "เพชรบุรี",
+      "english_name": "Phetchaburi",
+      "zone": "east"
+    },
+    {
+      "station_id": "BL27",
+      "thai_name": "สุขุมวิท",
+      "english_name": "Sukhumvit",
+      "zone": "east"
+    },
+    {
+      "station_id": "BL28",
+      "thai_name": "ศูนย์การประชุมแห่งชาติสิริกิติ์",
+      "english_name": "Queen Sirikit National Convention Centre",
+      "zone": "east"
+    },
+    {
+      "station_id": "BL29",
+      "thai_name": "คลองเตย",
+      "english_name": "Khlong Toei",
+      "zone": "east"
+    },
+    {
+      "station_id": "BL30",
+      "thai_name": "ลุมพินี",
+      "english_name": "Lumphini",
+      "zone": "central"
+    },
+    {
+      "station_id": "BL31",
+      "thai_name": "สีลม",
+      "english_name": "Si Lom",
+      "zone": "central"
+    },
+    {
+      "station_id": "BL32",
+      "thai_name": "สามย่าน",
+      "english_name": "Sam Yan",
+      "zone": "central"
+    },
+    {
+      "station_id": "BL33",
+      "thai_name": "หัวลำโพง",
+      "english_name": "Hua Lamphong",
+      "zone": "central"
+    }
+  ],
+  "interchange_stations": [
+    {
+      "station_id": "BL05",
+      "thai_name": "บางหว้า",
+      "english_name": "Bang Wa",
+      "connecting_lines": ["BTS Silom Line"]
+    },
+    {
+      "station_id": "BL15",
+      "thai_name": "เตาปูน",
+      "english_name": "Tao Poon",
+      "connecting_lines": ["MRT Purple Line"]
+    },
+    {
+      "station_id": "BL16",
+      "thai_name": "บางซื่อ",
+      "english_name": "Bang Sue",
+      "connecting_lines": ["SRT Red Line North", "SRT Red Line South", "High-Speed Rail"]
+    },
+    {
+      "station_id": "BL18",
+      "thai_name": "จตุจักร",
+      "english_name": "Chatuchak Park",
+      "connecting_lines": ["BTS Sukhumvit Line (Mo Chit Station)"]
+    },
+    {
+      "station_id": "BL20",
+      "thai_name": "ลาดพร้าว",
+      "english_name": "Lat Phrao",
+      "connecting_lines": ["MRT Yellow Line"]
+    },
+    {
+      "station_id": "BL27",
+      "thai_name": "สุขุมวิท",
+      "english_name": "Sukhumvit",
+      "connecting_lines": ["BTS Sukhumvit Line (Asok Station)"]
+    },
+    {
+      "station_id": "BL31",
+      "thai_name": "สีลม",
+      "english_name": "Si Lom",
+      "connecting_lines": ["BTS Silom Line (Sala Daeng Station)"]
+    }
+  ],
+  "sections": [
+    {
+      "section_name": "Original Line",
+      "thai_name": "เส้นทางเดิม",
+      "stations": ["BL33", "BL32", "BL31", "BL30", "BL29", "BL28", "BL27", "BL26", "BL25", "BL24", "BL23", "BL22", "BL21", "BL20", "BL19", "BL18", "BL17", "BL16"],
+      "opening_year": 2004
+    },
+    {
+      "section_name": "Extension",
+      "thai_name": "เส้นทางส่วนขยาย",
+      "stations": ["BL16", "BL15", "BL14", "BL13", "BL12", "BL11", "BL10", "BL09", "BL08", "BL07", "BL06", "BL05", "BL04", "BL03", "BL02", "BL01"],
+      "opening_year": 2019
+    }
+  ],
+  "special_features": [
+    {
+      "feature": "circular_line",
+      "description": "Complete circular route connecting all major districts"
+    },
+    {
+      "feature": "underground_system",
+      "description": "Fully underground metro system"
+    },
+    {
+      "feature": "multi_modal_hub",
+      "description": "Connects to BTS, SRT, and High-Speed Rail systems"
+    }
+  ],
+  "metadata": {
+    "created_date": "2025-06-13",
+    "data_version": "1.0",
+    "last_updated": "2025-06-13",
+    "notes": "MRT Blue Line forms a complete circle around Bangkok with connections to major transport systems"
+  }
+}

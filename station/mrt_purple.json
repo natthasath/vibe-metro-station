@@ -1,0 +1,185 @@
+{
+  "line_info": {
+    "thai_name": "สายสีม่วง",
+    "english_name": "Purple Line",
+    "color": "สีม่วง",
+    "color_code": "#8B008B",
+    "total_stations": 16,
+    "total_distance_km": 23.0,
+    "train_type": "mrt",
+    "line_code": "purple_line",
+    "operator": "Mass Rapid Transit Authority of Thailand (MRTA)",
+    "line_type": "linear"
+  },
+  "stations": [
+    {
+      "station_id": "PP01",
+      "thai_name": "คลองบางไผ่",
+      "english_name": "Khlong Bang Phai",
+      "zone": "northwest"
+    },
+    {
+      "station_id": "PP02",
+      "thai_name": "ตลาดบางใหญ่",
+      "english_name": "Talad Bang Yai",
+      "zone": "northwest"
+    },
+    {
+      "station_id": "PP03",
+      "thai_name": "สามแยกบางใหญ่",
+      "english_name": "Sam Yaek Bang Yai",
+      "zone": "northwest"
+    },
+    {
+      "station_id": "PP04",
+      "thai_name": "บางพลู",
+      "english_name": "Bang Phlu",
+      "zone": "northwest"
+    },
+    {
+      "station_id": "PP05",
+      "thai_name": "บางรักใหญ่",
+      "english_name": "Bang Rak Yai",
+      "zone": "northwest"
+    },
+    {
+      "station_id": "PP06",
+      "thai_name": "บางรักน้อย-ท่าอิฐ",
+      "english_name": "Bang Rak Noi Tha It",
+      "zone": "northwest"
+    },
+    {
+      "station_id": "PP07",
+      "thai_name": "ไทรม้า",
+      "english_name": "Sai Ma",
+      "zone": "northwest"
+    },
+    {
+      "station_id": "PP08",
+      "thai_name": "สะพานพระนั่งเกล้า",
+      "english_name": "Phra Nang Klao Bridge",
+      "zone": "northwest"
+    },
+    {
+      "station_id": "PP09",
+      "thai_name": "แยกนนทบุรี 1",
+      "english_name": "Yaek Nonthaburi 1",
+      "zone": "north"
+    },
+    {
+      "station_id": "PP10",
+      "thai_name": "บางกระสอม",
+      "english_name": "Bang Krasom",
+      "zone": "north"
+    },
+    {
+      "station_id": "PP11",
+      "thai_name": "ศูนย์ราชการนนทบุรี",
+      "english_name": "Nonthaburi Civic Center",
+      "zone": "north"
+    },
+    {
+      "station_id": "PP12",
+      "thai_name": "กระทรวงสาธารณสุข",
+      "english_name": "Ministry of Public Health",
+      "zone": "north"
+    },
+    {
+      "station_id": "PP13",
+      "thai_name": "แยกติวานนท์",
+      "english_name": "Yaek Tiwanon",
+      "zone": "north"
+    },
+    {
+      "station_id": "PP14",
+      "thai_name": "วงศ์สว่าง",
+      "english_name": "Wong Sawang",
+      "zone": "north"
+    },
+    {
+      "station_id": "PP15",
+      "thai_name": "บางซ่อน",
+      "english_name": "Bang Son",
+      "zone": "north"
+    },
+    {
+      "station_id": "PP16",
+      "thai_name": "เตาปูน",
+      "english_name": "Tao Poon",
+      "zone": "north"
+    }
+  ],
+  "interchange_stations": [
+    {
+      "station_id": "PP16",
+      "thai_name": "เตาปูน",
+      "english_name": "Tao Poon",
+      "connecting_lines": ["MRT Blue Line"]
+    }
+  ],
+  "terminal_stations": [
+    {
+      "station_id": "PP01",
+      "thai_name": "คลองบางไผ่",
+      "english_name": "Khlong Bang Phai",
+      "terminus_type": "northwest_terminus"
+    },
+    {
+      "station_id": "PP16",
+      "thai_name": "เตาปูน",
+      "english_name": "Tao Poon",
+      "terminus_type": "central_terminus"
+    }
+  ],
+  "provinces_served": [
+    {
+      "province": "Nonthaburi",
+      "thai_name": "นนทบุรี",
+      "stations": ["PP01", "PP02", "PP03", "PP04", "PP05", "PP06", "PP07", "PP08", "PP09", "PP10", "PP11", "PP12", "PP13", "PP14", "PP15"]
+    },
+    {
+      "province": "Bangkok",
+      "thai_name": "กรุงเทพมหานคร",
+      "stations": ["PP16"]
+    }
+  ],
+  "special_features": [
+    {
+      "feature": "inter_province_connection",
+      "description": "Connects Nonthaburi Province to Bangkok's central transport network"
+    },
+    {
+      "feature": "government_center_access",
+      "description": "Direct access to Nonthaburi Civic Center and Ministry of Public Health"
+    },
+    {
+      "feature": "bridge_crossing",
+      "description": "Crosses Chao Phraya River via Phra Nang Klao Bridge"
+    }
+  ],
+  "operating_hours": {
+    "weekdays": "06:00 - 24:00",
+    "weekends": "06:00 - 24:00",
+    "frequency_peak": "4-6 minutes",
+    "frequency_off_peak": "7-10 minutes"
+  },
+  "zones": [
+    {
+      "zone_name": "northwest",
+      "description": "Bang Yai area in Nonthaburi",
+      "stations": ["PP01", "PP02", "PP03", "PP04", "PP05", "PP06", "PP07", "PP08"]
+    },
+    {
+      "zone_name": "north",
+      "description": "Central Nonthaburi and connection to Bangkok",
+      "stations": ["PP09", "PP10", "PP11", "PP12", "PP13", "PP14", "PP15", "PP16"]
+    }
+  ],
+  "metadata": {
+    "created_date": "2025-06-13",
+    "data_version": "1.0",
+    "last_updated": "2025-06-13",
+    "opening_date": "2016-08-06",
+    "notes": "MRT Purple Line is the first inter-provincial mass transit line connecting Nonthaburi to Bangkok"
+  }
+}

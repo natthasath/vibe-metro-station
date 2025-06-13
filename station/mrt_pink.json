@@ -1,0 +1,326 @@
+{
+  "line_info": {
+    "thai_name": "สายสีชมพู",
+    "english_name": "Pink Line",
+    "color": "สีชมพู",
+    "color_code": "#FF69B4",
+    "total_stations": 30,
+    "total_distance_km": 34.5,
+    "train_type": "mrt",
+    "line_code": "pink_line",
+    "operator": "Mass Rapid Transit Authority of Thailand (MRTA)",
+    "line_type": "monorail",
+    "system_type": "elevated"
+  },
+  "stations": [
+    {
+      "station_id": "PK01",
+      "thai_name": "แคราย",
+      "english_name": "Khae Rai",
+      "zone": "north"
+    },
+    {
+      "station_id": "PK02",
+      "thai_name": "หนองจอก",
+      "english_name": "Nong Chok",
+      "zone": "north"
+    },
+    {
+      "station_id": "PK03",
+      "thai_name": "มีนบุรี",
+      "english_name": "Min Buri",
+      "zone": "north"
+    },
+    {
+      "station_id": "PK04",
+      "thai_name": "ลาดมะยม",
+      "english_name": "Lat Mayom",
+      "zone": "north"
+    },
+    {
+      "station_id": "PK05",
+      "thai_name": "บ้านทับช้าง",
+      "english_name": "Ban Thap Chang",
+      "zone": "north"
+    },
+    {
+      "station_id": "PK06",
+      "thai_name": "สามวาตะวันตก",
+      "english_name": "Sam Wa Tawantok",
+      "zone": "northeast"
+    },
+    {
+      "station_id": "PK07",
+      "thai_name": "ทุ่งสองห้อง",
+      "english_name": "Thung Song Hong",
+      "zone": "northeast"
+    },
+    {
+      "station_id": "PK08",
+      "thai_name": "โรงพยาบาลภูมิพลอดุลยเดช",
+      "english_name": "Bhumibol Adulyadej Hospital",
+      "zone": "northeast"
+    },
+    {
+      "station_id": "PK09",
+      "thai_name": "สะพานพุทธ",
+      "english_name": "Saphan Phut",
+      "zone": "northeast"
+    },
+    {
+      "station_id": "PK10",
+      "thai_name": "วัดพระศรีมหาธาตุ",
+      "english_name": "Wat Phra Sri Mahathat",
+      "zone": "northeast"
+    },
+    {
+      "station_id": "PK11",
+      "thai_name": "นนทบุรี 1",
+      "english_name": "Nonthaburi 1",
+      "zone": "northwest"
+    },
+    {
+      "station_id": "PK12",
+      "thai_name": "สีรัตน์",
+      "english_name": "Si Rat",
+      "zone": "northwest"
+    },
+    {
+      "station_id": "PK13",
+      "thai_name": "เมืองทองธานี",
+      "english_name": "Muang Thong Thani",
+      "zone": "northwest"
+    },
+    {
+      "station_id": "PK14",
+      "thai_name": "อิมแพ็ค เมืองทองธานี",
+      "english_name": "Impact Muang Thong Thani",
+      "zone": "northwest"
+    },
+    {
+      "station_id": "PK15",
+      "thai_name": "แจ้งวัฒนะ 14",
+      "english_name": "Chaeng Watthana 14",
+      "zone": "northwest"
+    },
+    {
+      "station_id": "PK16",
+      "thai_name": "แจ้งวัฒนะ-ปากเกร็ด 28",
+      "english_name": "Chaeng Watthana - Pak Kret 28",
+      "zone": "northwest"
+    },
+    {
+      "station_id": "PK17",
+      "thai_name": "แจ้งวัฒนะ-ปากเกร็ด 39",
+      "english_name": "Chaeng Watthana - Pak Kret 39",
+      "zone": "northwest"
+    },
+    {
+      "station_id": "PK18",
+      "thai_name": "แจ้งวัฒนะ-ปากเกร็ด 44",
+      "english_name": "Chaeng Watthana - Pak Kret 44",
+      "zone": "northwest"
+    },
+    {
+      "station_id": "PK19",
+      "thai_name": "เกาะเกร็ด",
+      "english_name": "Ko Kret",
+      "zone": "northwest"
+    },
+    {
+      "station_id": "PK20",
+      "thai_name": "ปากเกร็ด",
+      "english_name": "Pak Kret",
+      "zone": "northwest"
+    },
+    {
+      "station_id": "PK21",
+      "thai_name": "ปากเกร็ด บายพาส",
+      "english_name": "Pak Kret Bypass",
+      "zone": "northwest"
+    },
+    {
+      "station_id": "PK22",
+      "thai_name": "แจ้งวัฒนะ-ปากเกร็ด 21",
+      "english_name": "Chaeng Watthana - Pak Kret 21",
+      "zone": "northwest"
+    },
+    {
+      "station_id": "PK23",
+      "thai_name": "แจ้งวัฒนะ 13",
+      "english_name": "Chaeng Watthana 13",
+      "zone": "northwest"
+    },
+    {
+      "station_id": "PK24",
+      "thai_name": "ราชภัฏพระนคร",
+      "english_name": "Rajabhat Phranakhon",
+      "zone": "central"
+    },
+    {
+      "station_id": "PK25",
+      "thai_name": "แจ้งวัฒนะ-ปากเกร็ด 10",
+      "english_name": "Chaeng Watthana - Pak Kret 10",
+      "zone": "central"
+    },
+    {
+      "station_id": "PK26",
+      "thai_name": "เลควิว",
+      "english_name": "Lakeview",
+      "zone": "central"
+    },
+    {
+      "station_id": "PK27",
+      "thai_name": "รามอินทรา 109",
+      "english_name": "Ram Inthra 109",
+      "zone": "east"
+    },
+    {
+      "station_id": "PK28",
+      "thai_name": "วัชรพล",
+      "english_name": "Watcharapon",
+      "zone": "east"
+    },
+    {
+      "station_id": "PK29",
+      "thai_name": "รามอินทรา 87",
+      "english_name": "Ram Inthra 87",
+      "zone": "east"
+    },
+    {
+      "station_id": "PK30",
+      "thai_name": "รามอินทรา 65",
+      "english_name": "Ram Inthra 65",
+      "zone": "east"
+    }
+  ],
+  "interchange_stations": [
+    {
+      "station_id": "PK03",
+      "thai_name": "มีนบุรี",
+      "english_name": "Min Buri",
+      "connecting_lines": ["MRT Yellow Line"]
+    },
+    {
+      "station_id": "PK05",
+      "thai_name": "บ้านทับช้าง",
+      "english_name": "Ban Thap Chang",
+      "connecting_lines": ["Airport Rail Link"]
+    }
+  ],
+  "terminal_stations": [
+    {
+      "station_id": "PK01",
+      "thai_name": "แคราย",
+      "english_name": "Khae Rai",
+      "terminus_type": "northern_terminus"
+    },
+    {
+      "station_id": "PK30",
+      "thai_name": "รามอินทรา 65",
+      "english_name": "Ram Inthra 65",
+      "terminus_type": "eastern_terminus"
+    }
+  ],
+  "provinces_served": [
+    {
+      "province": "Bangkok",
+      "thai_name": "กรุงเทพมหานคร",
+      "stations": ["PK01", "PK02", "PK03", "PK04", "PK05", "PK06", "PK07", "PK08", "PK09", "PK10", "PK24", "PK25", "PK26", "PK27", "PK28", "PK29", "PK30"]
+    },
+    {
+      "province": "Nonthaburi",
+      "thai_name": "นนทบุรี",
+      "stations": ["PK11", "PK12", "PK13", "PK14", "PK15", "PK16", "PK17", "PK18", "PK19", "PK20", "PK21", "PK22", "PK23"]
+    }
+  ],
+  "special_features": [
+    {
+      "feature": "monorail_system",
+      "description": "First monorail system in Thailand with elevated tracks"
+    },
+    {
+      "feature": "convention_center_access",
+      "description": "Direct access to Impact Muang Thong Thani convention center"
+    },
+    {
+      "feature": "hospital_access",
+      "description": "Direct access to Bhumibol Adulyadej Hospital"
+    },
+    {
+      "feature": "university_access",
+      "description": "Access to Rajabhat Phranakhon University"
+    },
+    {
+      "feature": "inter_province_connection",
+      "description": "Connects Bangkok to Nonthaburi Province"
+    }
+  ],
+  "operating_hours": {
+    "weekdays": "06:00 - 24:00",
+    "weekends": "06:00 - 24:00",
+    "frequency_peak": "5-8 minutes",
+    "frequency_off_peak": "10-15 minutes"
+  },
+  "zones": [
+    {
+      "zone_name": "north",
+      "description": "Northern Bangkok areas including Khae Rai and Min Buri",
+      "stations": ["PK01", "PK02", "PK03", "PK04", "PK05"]
+    },
+    {
+      "zone_name": "northeast",
+      "description": "Northeastern Bangkok residential and hospital areas",
+      "stations": ["PK06", "PK07", "PK08", "PK09", "PK10"]
+    },
+    {
+      "zone_name": "northwest",
+      "description": "Nonthaburi Province including Muang Thong Thani and Pak Kret",
+      "stations": ["PK11", "PK12", "PK13", "PK14", "PK15", "PK16", "PK17", "PK18", "PK19", "PK20", "PK21", "PK22", "PK23"]
+    },
+    {
+      "zone_name": "central",
+      "description": "Central connection areas",
+      "stations": ["PK24", "PK25", "PK26"]
+    },
+    {
+      "zone_name": "east",
+      "description": "Eastern areas along Ram Inthra Road",
+      "stations": ["PK27", "PK28", "PK29", "PK30"]
+    }
+  ],
+  "districts_served": [
+    {
+      "district": "Min Buri",
+      "thai_name": "มีนบุรี",
+      "stations": ["PK01", "PK02", "PK03"]
+    },
+    {
+      "district": "Khlong Sam Wa",
+      "thai_name": "คลองสามวา",
+      "stations": ["PK04", "PK05", "PK06", "PK07"]
+    },
+    {
+      "district": "Saphan Phut",
+      "thai_name": "สะพานพุทธ",
+      "stations": ["PK08", "PK09", "PK10"]
+    },
+    {
+      "district": "Pak Kret (Nonthaburi)",
+      "thai_name": "ปากเกร็ด (นนทบุรี)",
+      "stations": ["PK11", "PK12", "PK13", "PK14", "PK15", "PK16", "PK17", "PK18", "PK19", "PK20", "PK21", "PK22", "PK23"]
+    },
+    {
+      "district": "Bang Khen",
+      "thai_name": "บางเขน",
+      "stations": ["PK24", "PK25", "PK26", "PK27", "PK28", "PK29", "PK30"]
+    }
+  ],
+  "metadata": {
+    "created_date": "2025-06-13",
+    "data_version": "1.0",
+    "last_updated": "2025-06-13",
+    "opening_date": "2021-08-16",
+    "notes": "MRT Pink Line is Thailand's first monorail system, connecting northern Bangkok to Nonthaburi with elevated tracks"
+  }
+}

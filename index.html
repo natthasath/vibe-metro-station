@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>รถไฟฟ้าในประเทศไทย - Thai Train Systems</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🚇 รถไฟฟ้าในประเทศไทย</h1>
+            <p>Thai Electric Train Systems</p>
+        </div>
+
+        <div class="main-view">
+            <!-- Gallery View -->
+            <div id="gallery-view" class="gallery-view">
+                <input type="text" class="search-box" id="searchBox" placeholder="🔍 ค้นหาสายรถไฟฟ้า เช่น BTS, MRT, สีเขียว, สีน้ำเงิน...">
+                <div class="gallery" id="trainGallery">
+                    <!-- Train cards will be populated here -->
+                </div>
+            </div>
+
+            <!-- Stations View -->
+            <div id="stations-view" class="stations-view">
+                <button class="back-btn" onclick="showGallery()">← กลับไปหน้าหลัก</button>
+                <div class="line-header" id="lineHeader">
+                    <h2 id="lineTitle"></h2>
+                    <p id="lineSubtitle"></p>
+                </div>
+                <input type="text" class="search-box" id="stationSearchBox" placeholder="🔍 ค้นหาสถานี เช่น สยาม, อโศก, หมอชิต...">
+                <div class="stations-timeline" id="stationsTimeline">
+                    <!-- Station timeline will be populated here -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

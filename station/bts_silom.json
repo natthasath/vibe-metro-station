@@ -1,0 +1,157 @@
+{
+  "line_info": {
+    "thai_name": "สายสีลม",
+    "english_name": "Silom Line",
+    "color": "สีเขียวอ่อน",
+    "color_code": "#87CEEB",
+    "total_stations": 13,
+    "total_distance_km": 15.5,
+    "train_type": "bts",
+    "line_code": "silom",
+    "operator": "Bangkok Mass Transit System (BTS)"
+  },
+  "stations": [
+    {
+      "station_id": "W1",
+      "thai_name": "สนามกีฬาแห่งชาติ",
+      "english_name": "National Stadium",
+      "zone": "west"
+    },
+    {
+      "station_id": "CEN",
+      "thai_name": "สยาม",
+      "english_name": "Siam",
+      "zone": "central"
+    },
+    {
+      "station_id": "S1",
+      "thai_name": "ราชดำริ",
+      "english_name": "Ratchadamri",
+      "zone": "south"
+    },
+    {
+      "station_id": "S2",
+      "thai_name": "ศาลาแดง",
+      "english_name": "Sala Daeng",
+      "zone": "south"
+    },
+    {
+      "station_id": "S3",
+      "thai_name": "ช่องนนทรี",
+      "english_name": "Chong Nonsi",
+      "zone": "south"
+    },
+    {
+      "station_id": "S4",
+      "thai_name": "สุรศักดิ์",
+      "english_name": "Surasak",
+      "zone": "south"
+    },
+    {
+      "station_id": "S5",
+      "thai_name": "สะพานตากสิน",
+      "english_name": "Saphan Taksin",
+      "zone": "south"
+    },
+    {
+      "station_id": "S6",
+      "thai_name": "กรุงธนบุรี",
+      "english_name": "Krung Thon Buri",
+      "zone": "south"
+    },
+    {
+      "station_id": "S7",
+      "thai_name": "วงเวียนใหญ่",
+      "english_name": "Wongwian Yai",
+      "zone": "south"
+    },
+    {
+      "station_id": "S8",
+      "thai_name": "โพธิ์นิมิตร",
+      "english_name": "Pho Nimit",
+      "zone": "south"
+    },
+    {
+      "station_id": "S9",
+      "thai_name": "ตลาดพลู",
+      "english_name": "Talad Phlu",
+      "zone": "south"
+    },
+    {
+      "station_id": "S10",
+      "thai_name": "วุฒากาศ",
+      "english_name": "Wutthakat",
+      "zone": "south"
+    },
+    {
+      "station_id": "S12",
+      "thai_name": "บางหว้า",
+      "english_name": "Bang Wa",
+      "zone": "south"
+    }
+  ],
+  "interchange_stations": [
+    {
+      "station_id": "CEN",
+      "thai_name": "สยาม",
+      "english_name": "Siam",
+      "connecting_lines": ["BTS Sukhumvit Line"]
+    },
+    {
+      "station_id": "S2",
+      "thai_name": "ศาลาแดง",
+      "english_name": "Sala Daeng",
+      "connecting_lines": ["MRT Blue Line (Si Lom Station)"]
+    },
+    {
+      "station_id": "S5",
+      "thai_name": "สะพานตากสิน",
+      "english_name": "Saphan Taksin",
+      "connecting_lines": ["Chao Phraya Express Boat"]
+    },
+    {
+      "station_id": "S6",
+      "thai_name": "กรุงธนบุรี",
+      "english_name": "Krung Thon Buri",
+      "connecting_lines": ["BTS Gold Line"]
+    },
+    {
+      "station_id": "S12",
+      "thai_name": "บางหว้า",
+      "english_name": "Bang Wa",
+      "connecting_lines": ["MRT Blue Line"]
+    }
+  ],
+  "terminal_stations": [
+    {
+      "station_id": "W1",
+      "thai_name": "สนามกีฬาแห่งชาติ",
+      "english_name": "National Stadium",
+      "terminus_type": "western_terminus"
+    },
+    {
+      "station_id": "S12",
+      "thai_name": "บางหว้า",
+      "english_name": "Bang Wa",
+      "terminus_type": "southern_terminus"
+    }
+  ],
+  "special_features": [
+    {
+      "station_id": "S5",
+      "feature": "river_connection",
+      "description": "Connects to Chao Phraya River boat services"
+    },
+    {
+      "station_id": "S6",
+      "feature": "gold_line_connection",
+      "description": "Transfer point to BTS Gold Line"
+    }
+  ],
+  "metadata": {
+    "created_date": "2025-06-13",
+    "data_version": "1.0",
+    "last_updated": "2025-06-13",
+    "notes": "BTS Silom Line connects central Bangkok to Thonburi area across Chao Phraya River"
+  }
+}

@@ -1,0 +1,347 @@
+{
+  "line_info": {
+    "thai_name": "รถไฟฟ้าสายสีแดงเข้ม",
+    "english_name": "SRT Red Lines",
+    "color": "สีแดงเข้ม",
+    "color_code": "#8B0000",
+    "total_stations": 26,
+    "total_distance_km": 84.0,
+    "train_type": "electric_train",
+    "line_code": "srt_red_lines",
+    "operator": "State Railway of Thailand (SRT)",
+    "line_type": "dual_direction",
+    "system_type": "at_grade_elevated"
+  },
+  "lines": [
+    {
+      "line_name": "North Line",
+      "thai_name": "สายเหนือ",
+      "line_code": "red_north",
+      "total_stations": 12,
+      "total_distance_km": 26.0,
+      "terminus_start": "Krung Thep Aphiwat (Bang Sue)",
+      "terminus_end": "Rangsit",
+      "stations": [
+        {
+          "station_id": "RN01",
+          "thai_name": "กรุงเทพอภิวัฒน์ (บางซื่อ)",
+          "english_name": "Krung Thep Aphiwat (Bang Sue)",
+          "zone": "central"
+        },
+        {
+          "station_id": "RN02",
+          "thai_name": "จตุจักร",
+          "english_name": "Chatuchak",
+          "zone": "north"
+        },
+        {
+          "station_id": "RN03",
+          "thai_name": "วัดเสมียนนารี",
+          "english_name": "Wat Samian Nari",
+          "zone": "north"
+        },
+        {
+          "station_id": "RN04",
+          "thai_name": "หลักสี่",
+          "english_name": "Lak Si",
+          "zone": "north"
+        },
+        {
+          "station_id": "RN05",
+          "thai_name": "กันตนีคม",
+          "english_name": "Kan Kheha",
+          "zone": "north"
+        },
+        {
+          "station_id": "RN06",
+          "thai_name": "ดอนเมือง",
+          "english_name": "Don Mueang",
+          "zone": "north"
+        },
+        {
+          "station_id": "RN07",
+          "thai_name": "หลักหก",
+          "english_name": "Lak Hok",
+          "zone": "north"
+        },
+        {
+          "station_id": "RN08",
+          "thai_name": "คลองหลวง",
+          "english_name": "Khlong Luang",
+          "zone": "north"
+        },
+        {
+          "station_id": "RN09",
+          "thai_name": "บางเสาธง",
+          "english_name": "Bang Sao Thong",
+          "zone": "north"
+        },
+        {
+          "station_id": "RN10",
+          "thai_name": "หลักเจ็ด",
+          "english_name": "Lak Chet",
+          "zone": "north"
+        },
+        {
+          "station_id": "RN11",
+          "thai_name": "ตลิงชัน",
+          "english_name": "Taling Chan",
+          "zone": "north"
+        },
+        {
+          "station_id": "RN12",
+          "thai_name": "รังสิต",
+          "english_name": "Rangsit",
+          "zone": "north"
+        }
+      ]
+    },
+    {
+      "line_name": "South Line",
+      "thai_name": "สายใต้",
+      "line_code": "red_south",
+      "total_stations": 14,
+      "total_distance_km": 58.0,
+      "terminus_start": "Krung Thep Aphiwat (Bang Sue)",
+      "terminus_end": "Mahachai",
+      "stations": [
+        {
+          "station_id": "RS01",
+          "thai_name": "กรุงเทพอภิวัฒน์ (บางซื่อ)",
+          "english_name": "Krung Thep Aphiwat (Bang Sue)",
+          "zone": "central"
+        },
+        {
+          "station_id": "RS02",
+          "thai_name": "บางบำหรุ",
+          "english_name": "Bang Bamru",
+          "zone": "west"
+        },
+        {
+          "station_id": "RS03",
+          "thai_name": "บางซื่อ",
+          "english_name": "Bang Sue",
+          "zone": "west"
+        },
+        {
+          "station_id": "RS04",
+          "thai_name": "บางโพ",
+          "english_name": "Bang Pho",
+          "zone": "west"
+        },
+        {
+          "station_id": "RS05",
+          "thai_name": "ตลาดพลู",
+          "english_name": "Talad Phlu",
+          "zone": "west"
+        },
+        {
+          "station_id": "RS06",
+          "thai_name": "โพธิ์นิมิตร",
+          "english_name": "Pho Nimit",
+          "zone": "west"
+        },
+        {
+          "station_id": "RS07",
+          "thai_name": "บางใหญ่",
+          "english_name": "Bang Yai",
+          "zone": "west"
+        },
+        {
+          "station_id": "RS08",
+          "thai_name": "บางพลู",
+          "english_name": "Bang Phlu",
+          "zone": "west"
+        },
+        {
+          "station_id": "RS09",
+          "thai_name": "นครปฐม",
+          "english_name": "Nakhon Pathom",
+          "zone": "west"
+        },
+        {
+          "station_id": "RS10",
+          "thai_name": "สามพราน",
+          "english_name": "Sam Phran",
+          "zone": "west"
+        },
+        {
+          "station_id": "RS11",
+          "thai_name": "อ้อมใหญ่",
+          "english_name": "Om Yai",
+          "zone": "west"
+        },
+        {
+          "station_id": "RS12",
+          "thai_name": "อ้อมน้อย",
+          "english_name": "Om Noi",
+          "zone": "west"
+        },
+        {
+          "station_id": "RS13",
+          "thai_name": "บ้านแหลม",
+          "english_name": "Ban Laem",
+          "zone": "west"
+        },
+        {
+          "station_id": "RS14",
+          "thai_name": "มหาชัย",
+          "english_name": "Mahachai",
+          "zone": "west"
+        }
+      ]
+    }
+  ],
+  "interchange_stations": [
+    {
+      "station_id": "RN01/RS01",
+      "thai_name": "กรุงเทพอภิวัฒน์ (บางซื่อ)",
+      "english_name": "Krung Thep Aphiwat (Bang Sue)",
+      "connecting_lines": ["MRT Blue Line", "High-Speed Rail", "Conventional Rail"]
+    },
+    {
+      "station_id": "RN06",
+      "thai_name": "ดอนเมือง",
+      "english_name": "Don Mueang",
+      "connecting_lines": ["Don Mueang International Airport (Bus Connection)"]
+    }
+  ],
+  "provinces_served": [
+    {
+      "province": "Bangkok",
+      "thai_name": "กรุงเทพมหานคร",
+      "lines": ["North Line", "South Line"],
+      "stations_north": ["RN01", "RN02", "RN03", "RN04", "RN05", "RN06"],
+      "stations_south": ["RS01", "RS02", "RS03", "RS04", "RS05", "RS06"]
+    },
+    {
+      "province": "Pathum Thani",
+      "thai_name": "ปทุมธานี",
+      "lines": ["North Line"],
+      "stations": ["RN07", "RN08", "RN09", "RN10", "RN11", "RN12"]
+    },
+    {
+      "province": "Nonthaburi",
+      "thai_name": "นนทบุรี",
+      "lines": ["South Line"],
+      "stations": ["RS07", "RS08"]
+    },
+    {
+      "province": "Nakhon Pathom",
+      "thai_name": "นครปฐม",
+      "lines": ["South Line"],
+      "stations": ["RS09", "RS10", "RS11", "RS12"]
+    },
+    {
+      "province": "Samut Sakhon",
+      "thai_name": "สมุทรสาคร",
+      "lines": ["South Line"],
+      "stations": ["RS13", "RS14"]
+    }
+  ],
+  "special_features": [
+    {
+      "feature": "inter_province_service",
+      "description": "Connects Bangkok to 4 surrounding provinces"
+    },
+    {
+      "feature": "airport_access",
+      "description": "Connection to Don Mueang International Airport via bus transfer"
+    },
+    {
+      "feature": "central_hub",
+      "description": "Central hub at Bang Sue Grand Station connecting multiple rail systems"
+    },
+    {
+      "feature": "conventional_rail_integration",
+      "description": "Integrated with existing SRT conventional rail network"
+    },
+    {
+      "feature": "suburban_commuter_service",
+      "description": "Primary suburban commuter rail service for Greater Bangkok"
+    }
+  ],
+  "operating_hours": {
+    "weekdays": "04:30 - 23:30",
+    "weekends": "04:30 - 23:30",
+    "frequency_peak": "15-20 minutes",
+    "frequency_off_peak": "30-40 minutes",
+    "first_train_north": "04:30",
+    "last_train_north": "23:30",
+    "first_train_south": "04:30",
+    "last_train_south": "23:30"
+  },
+  "fare_information": {
+    "minimum_fare": 12,
+    "maximum_fare": 42,
+    "currency": "THB",
+    "fare_type": "distance_based",
+    "payment_methods": ["Mangmoom Card", "Rabbit Card", "QR Code", "Cash (Token)"]
+  },
+  "rolling_stock": [
+    {
+      "train_type": "EMU (Electric Multiple Unit)",
+      "model": "CR400AF-C",
+      "cars_per_train": 8,
+      "capacity_per_car": 160,
+      "total_capacity": 1280,
+      "manufacturer": "CRRC",
+      "max_speed": "160 km/h"
+    }
+  ],
+  "accessibility_features": [
+    {
+      "feature": "disabled_access",
+      "description": "All stations equipped with elevators and disabled facilities"
+    },
+    {
+      "feature": "platform_safety",
+      "description": "Platform screen doors at elevated stations"
+    },
+    {
+      "feature": "multilingual_signage",
+      "description": "Thai and English signage throughout the system"
+    }
+  ],
+  "future_extensions": [
+    {
+      "extension_name": "North Line Extension",
+      "description": "Extension beyond Rangsit to Ayutthaya",
+      "status": "under_study"
+    },
+    {
+      "extension_name": "South Line Extension",
+      "description": "Extension to Mae Klong Railway",
+      "status": "planned"
+    },
+    {
+      "extension_name": "East Line",
+      "description": "New eastern branch to Chachoengsao",
+      "status": "under_construction"
+    }
+  ],
+  "zones": [
+    {
+      "zone_name": "central",
+      "description": "Central Bangkok hub at Bang Sue Grand Station",
+      "stations": ["RN01/RS01"]
+    },
+    {
+      "zone_name": "north",
+      "description": "Northern Bangkok and Pathum Thani Province",
+      "stations": ["RN02", "RN03", "RN04", "RN05", "RN06", "RN07", "RN08", "RN09", "RN10", "RN11", "RN12"]
+    },
+    {
+      "zone_name": "west",
+      "description": "Western Bangkok, Nonthaburi, Nakhon Pathom, and Samut Sakhon",
+      "stations": ["RS02", "RS03", "RS04", "RS05", "RS06", "RS07", "RS08", "RS09", "RS10", "RS11", "RS12", "RS13", "RS14"]
+    }
+  ],
+  "metadata": {
+    "created_date": "2025-06-13",
+    "data_version": "1.0",
+    "last_updated": "2025-06-13",
+    "opening_date": "2021-08-02",
+    "notes": "SRT Red Lines serve as the primary suburban commuter rail system connecting Bangkok to surrounding provinces with high-capacity electric trains"
+  }
+}

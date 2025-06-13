@@ -1,0 +1,274 @@
+{
+  "line_info": {
+    "thai_name": "รถไฟฟ้าแอร์พอร์ต เรล ลิงก์",
+    "english_name": "Airport Rail Link",
+    "color": "สีแดง",
+    "color_code": "#DC143C",
+    "total_stations": 8,
+    "total_distance_km": 28.6,
+    "train_type": "airport_rail",
+    "line_code": "arl",
+    "operator": "State Railway of Thailand (SRT)",
+    "line_type": "linear",
+    "system_type": "elevated"
+  },
+  "stations": [
+    {
+      "station_id": "A1",
+      "thai_name": "พญาไท",
+      "english_name": "Phaya Thai",
+      "zone": "central",
+      "city_line": true,
+      "express_line": true
+    },
+    {
+      "station_id": "A2",
+      "thai_name": "ราชปรารภ",
+      "english_name": "Ratchaprarop",
+      "zone": "central",
+      "city_line": true,
+      "express_line": false
+    },
+    {
+      "station_id": "A3",
+      "thai_name": "มักกะสัน",
+      "english_name": "Makkasan",
+      "zone": "central",
+      "city_line": true,
+      "express_line": true
+    },
+    {
+      "station_id": "A4",
+      "thai_name": "รามคำแหง",
+      "english_name": "Ramkhamhaeng",
+      "zone": "east",
+      "city_line": true,
+      "express_line": false
+    },
+    {
+      "station_id": "A5",
+      "thai_name": "หัวหมาก",
+      "english_name": "Hua Mak",
+      "zone": "east",
+      "city_line": true,
+      "express_line": false
+    },
+    {
+      "station_id": "A6",
+      "thai_name": "บ้านทับช้าง",
+      "english_name": "Ban Thap Chang",
+      "zone": "east",
+      "city_line": true,
+      "express_line": false
+    },
+    {
+      "station_id": "A7",
+      "thai_name": "ลาดกระบัง",
+      "english_name": "Lat Krabang",
+      "zone": "east",
+      "city_line": true,
+      "express_line": false
+    },
+    {
+      "station_id": "A8",
+      "thai_name": "สุวรรณภูมิ",
+      "english_name": "Suvarnabhumi Airport",
+      "zone": "airport",
+      "city_line": true,
+      "express_line": true
+    }
+  ],
+  "service_types": [
+    {
+      "service_name": "City Line",
+      "thai_name": "ซิตี้ไลน์",
+      "description": "Regular service stopping at all stations",
+      "stations": ["A1", "A2", "A3", "A4", "A5", "A6", "A7", "A8"],
+      "frequency_peak": "10-15 minutes",
+      "frequency_off_peak": "15-20 minutes",
+      "travel_time": "30 minutes"
+    },
+    {
+      "service_name": "Express Line",
+      "thai_name": "เอ็กซ์เพรส",
+      "description": "Limited stop express service",
+      "stations": ["A1", "A3", "A8"],
+      "frequency_peak": "15-30 minutes",
+      "frequency_off_peak": "30-60 minutes",
+      "travel_time": "17 minutes",
+      "status": "suspended"
+    }
+  ],
+  "interchange_stations": [
+    {
+      "station_id": "A1",
+      "thai_name": "พญาไท",
+      "english_name": "Phaya Thai",
+      "connecting_lines": ["BTS Sukhumvit Line"]
+    },
+    {
+      "station_id": "A4",
+      "thai_name": "รามคำแหง",
+      "english_name": "Ramkhamhaeng",
+      "connecting_lines": ["MRT Yellow Line"]
+    },
+    {
+      "station_id": "A5",
+      "thai_name": "หัวหมาก",
+      "english_name": "Hua Mak",
+      "connecting_lines": ["MRT Yellow Line"]
+    },
+    {
+      "station_id": "A6",
+      "thai_name": "บ้านทับช้าง",
+      "english_name": "Ban Thap Chang",
+      "connecting_lines": ["MRT Pink Line"]
+    }
+  ],
+  "terminal_stations": [
+    {
+      "station_id": "A1",
+      "thai_name": "พญาไท",
+      "english_name": "Phaya Thai",
+      "terminus_type": "city_terminus"
+    },
+    {
+      "station_id": "A8",
+      "thai_name": "สุวรรณภูมิ",
+      "english_name": "Suvarnabhumi Airport",
+      "terminus_type": "airport_terminus"
+    }
+  ],
+  "special_features": [
+    {
+      "feature": "airport_connection",
+      "description": "Direct connection to Suvarnabhumi International Airport"
+    },
+    {
+      "feature": "city_check_in",
+      "description": "City check-in service available at Makkasan and Phaya Thai stations"
+    },
+    {
+      "feature": "luggage_service",
+      "description": "In-town check-in and baggage handling services"
+    },
+    {
+      "feature": "express_service",
+      "description": "Express service for faster airport access (currently suspended)"
+    }
+  ],
+  "operating_hours": {
+    "weekdays": "06:00 - 24:00",
+    "weekends": "06:00 - 24:00",
+    "first_train_from_phaya_thai": "06:00",
+    "last_train_from_phaya_thai": "24:00",
+    "first_train_from_airport": "06:00",
+    "last_train_from_airport": "24:00"
+  },
+  "fare_information": {
+    "minimum_fare": 15,
+    "maximum_fare": 45,
+    "currency": "THB",
+    "fare_type": "distance_based",
+    "payment_methods": ["Rabbit Card", "Mangmoom Card", "Token", "QR Code"]
+  },
+  "districts_served": [
+    {
+      "district": "Ratchathewi",
+      "thai_name": "ราชเทวี",
+      "stations": ["A1", "A2"]
+    },
+    {
+      "district": "Din Daeng",
+      "thai_name": "ดินแดง",
+      "stations": ["A3"]
+    },
+    {
+      "district": "Bang Kapi",
+      "thai_name": "บางกะปิ",
+      "stations": ["A4"]
+    },
+    {
+      "district": "Wang Thonglang",
+      "thai_name": "วังทองหลาง",
+      "stations": ["A5"]
+    },
+    {
+      "district": "Khlong Sam Wa",
+      "thai_name": "คลองสามวา",
+      "stations": ["A6"]
+    },
+    {
+      "district": "Lat Krabang",
+      "thai_name": "ลาดกระบัง",
+      "stations": ["A7"]
+    },
+    {
+      "district": "Bang Phli (Samut Prakan)",
+      "thai_name": "บางพลี (สมุทรปราการ)",
+      "stations": ["A8"]
+    }
+  ],
+  "rolling_stock": {
+    "train_type": "electric_multiple_unit",
+    "cars_per_train": 4,
+    "capacity_per_car": 200,
+    "total_capacity": 800,
+    "manufacturer": "Siemens",
+    "max_speed": "160 km/h"
+  },
+  "accessibility_features": [
+    {
+      "feature": "elevator_access",
+      "description": "All stations equipped with elevators"
+    },
+    {
+      "feature": "disabled_facilities",
+      "description": "Wheelchair accessible platforms and toilets"
+    },
+    {
+      "feature": "tactile_guidance",
+      "description": "Tactile paving for visually impaired passengers"
+    },
+    {
+      "feature": "audio_announcements",
+      "description": "Multilingual audio announcements (Thai, English, Chinese)"
+    }
+  ],
+  "zones": [
+    {
+      "zone_name": "central",
+      "description": "Central Bangkok connection points",
+      "stations": ["A1", "A2", "A3"]
+    },
+    {
+      "zone_name": "east",
+      "description": "Eastern Bangkok residential and suburban areas",
+      "stations": ["A4", "A5", "A6", "A7"]
+    },
+    {
+      "zone_name": "airport",
+      "description": "Suvarnabhumi International Airport",
+      "stations": ["A8"]
+    }
+  ],
+  "future_plans": [
+    {
+      "plan_name": "Don Mueang Airport Extension",
+      "description": "Proposed extension to Don Mueang International Airport",
+      "status": "under_study"
+    },
+    {
+      "plan_name": "High-Speed Rail Connection",
+      "description": "Integration with high-speed rail to Chiang Mai and other provinces",
+      "status": "planned"
+    }
+  ],
+  "metadata": {
+    "created_date": "2025-06-13",
+    "data_version": "1.0",
+    "last_updated": "2025-06-13",
+    "opening_date": "2010-08-23",
+    "notes": "Airport Rail Link provides direct connection between central Bangkok and Suvarnabhumi Airport with both regular and express services (express currently suspended)"
+  }
+}

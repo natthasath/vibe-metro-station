@@ -1,0 +1,178 @@
+{
+  "line_info": {
+    "thai_name": "สายสีทอง",
+    "english_name": "Gold Line",
+    "color": "สีทอง",
+    "color_code": "#FFD700",
+    "total_stations": 3,
+    "total_distance_km": 2.7,
+    "train_type": "bts",
+    "line_code": "gold_line",
+    "operator": "Bangkok Mass Transit System (BTS)",
+    "line_type": "linear",
+    "system_type": "elevated"
+  },
+  "stations": [
+    {
+      "station_id": "G1",
+      "thai_name": "กรุงธนบุรี",
+      "english_name": "Krung Thon Buri",
+      "zone": "central"
+    },
+    {
+      "station_id": "G2",
+      "thai_name": "เจริญนคร",
+      "english_name": "Charoen Nakhon",
+      "zone": "west"
+    },
+    {
+      "station_id": "G3",
+      "thai_name": "คลองสาน",
+      "english_name": "Khlong San",
+      "zone": "west"
+    }
+  ],
+  "interchange_stations": [
+    {
+      "station_id": "G1",
+      "thai_name": "กรุงธนบุรี",
+      "english_name": "Krung Thon Buri",
+      "connecting_lines": ["BTS Silom Line", "Chao Phraya Express Boat"]
+    }
+  ],
+  "terminal_stations": [
+    {
+      "station_id": "G1",
+      "thai_name": "กรุงธนบุรี",
+      "english_name": "Krung Thon Buri",
+      "terminus_type": "eastern_terminus"
+    },
+    {
+      "station_id": "G3",
+      "thai_name": "คลองสาน",
+      "english_name": "Khlong San",
+      "terminus_type": "western_terminus"
+    }
+  ],
+  "districts_served": [
+    {
+      "district": "Khlong San",
+      "thai_name": "คลองสาน",
+      "stations": ["G1", "G2", "G3"]
+    }
+  ],
+  "nearby_attractions": [
+    {
+      "station_id": "G2",
+      "attraction_name": "Asiatique The Riverfront",
+      "thai_name": "เอเชียทีค เดอะ ริเวอร์ฟร้อนท์",
+      "category": "shopping_entertainment"
+    },
+    {
+      "station_id": "G2",
+      "attraction_name": "Charoenkrung Road",
+      "thai_name": "ถนนเจริญกรุง",
+      "category": "historic_area"
+    },
+    {
+      "station_id": "G3",
+      "attraction_name": "Khlong San Market",
+      "thai_name": "ตลาดคลองสาน",
+      "category": "local_market"
+    },
+    {
+      "station_id": "G3",
+      "attraction_name": "Wat Kalayanamitr",
+      "thai_name": "วัดกัลยาณมิตร",
+      "category": "temple"
+    }
+  ],
+  "special_features": [
+    {
+      "feature": "short_connector_line",
+      "description": "Short connector line serving Thonburi riverside area"
+    },
+    {
+      "feature": "riverfront_access",
+      "description": "Provides access to Chao Phraya River attractions and entertainment"
+    },
+    {
+      "feature": "historic_area_service",
+      "description": "Serves historic Charoenkrung and Khlong San areas"
+    },
+    {
+      "feature": "tourist_destination",
+      "description": "Direct access to Asiatique and other riverside attractions"
+    }
+  ],
+  "operating_hours": {
+    "weekdays": "06:00 - 24:00",
+    "weekends": "06:00 - 24:00",
+    "frequency_peak": "5-8 minutes",
+    "frequency_off_peak": "8-12 minutes"
+  },
+  "fare_information": {
+    "minimum_fare": 16,
+    "maximum_fare": 20,
+    "currency": "THB",
+    "fare_type": "distance_based"
+  },
+  "zones": [
+    {
+      "zone_name": "central",
+      "description": "Connection point with BTS Silom Line",
+      "stations": ["G1"]
+    },
+    {
+      "zone_name": "west",
+      "description": "Thonburi riverside entertainment and historic areas",
+      "stations": ["G2", "G3"]
+    }
+  ],
+  "accessibility_features": [
+    {
+      "feature": "elevator_access",
+      "description": "All stations equipped with elevators for disabled access"
+    },
+    {
+      "feature": "platform_screen_doors",
+      "description": "Full platform screen doors at all stations"
+    },
+    {
+      "feature": "tactile_guidance",
+      "description": "Tactile paving for visually impaired passengers"
+    }
+  ],
+  "future_extensions": [
+    {
+      "extension_name": "Phase 2",
+      "planned_stations": ["Icon Siam", "Wat Rakang"],
+      "status": "under_study",
+      "estimated_completion": "TBD"
+    }
+  ],
+  "rolling_stock": {
+    "train_type": "automated_train",
+    "cars_per_train": 2,
+    "capacity_per_car": 165,
+    "total_capacity": 330,
+    "manufacturer": "Siemens"
+  },
+  "environmental_features": [
+    {
+      "feature": "energy_efficient",
+      "description": "Regenerative braking system for energy recovery"
+    },
+    {
+      "feature": "noise_reduction",
+      "description": "Sound barriers and low-noise technology"
+    }
+  ],
+  "metadata": {
+    "created_date": "2025-06-13",
+    "data_version": "1.0",
+    "last_updated": "2025-06-13",
+    "opening_date": "2020-12-16",
+    "notes": "BTS Gold Line is a short connector line serving the Thonburi riverside area with tourist attractions and historic sites"
+  }
+}

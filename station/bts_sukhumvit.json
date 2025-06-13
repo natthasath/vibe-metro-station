@@ -1,0 +1,239 @@
+{
+  "line_info": {
+    "thai_name": "สายสุขุมวิท",
+    "english_name": "Sukhumvit Line",
+    "color": "สีเขียวเข้ม",
+    "color_code": "#006633",
+    "total_stations": 47,
+    "total_distance_km": 54.25,
+    "train_type": "bts",
+    "line_code": "sukhumvit",
+    "operator": "Bangkok Mass Transit System (BTS)"
+  },
+  "stations": [
+    {
+      "station_id": "N8",
+      "thai_name": "หมอชิต",
+      "english_name": "Mo Chit",
+      "zone": "north"
+    },
+    {
+      "station_id": "N7",
+      "thai_name": "สะพานพุทธ",
+      "english_name": "Saphan Phut",
+      "zone": "north"
+    },
+    {
+      "station_id": "N5",
+      "thai_name": "เสนานิคม",
+      "english_name": "Senanikhom",
+      "zone": "north"
+    },
+    {
+      "station_id": "N4",
+      "thai_name": "อารีย์",
+      "english_name": "Ari",
+      "zone": "north"
+    },
+    {
+      "station_id": "N3",
+      "thai_name": "สนามเป้า",
+      "english_name": "Sanam Pao",
+      "zone": "north"
+    },
+    {
+      "station_id": "N2",
+      "thai_name": "อนุสาวรีย์ชัยสมรภูมิ",
+      "english_name": "Victory Monument",
+      "zone": "north"
+    },
+    {
+      "station_id": "N1",
+      "thai_name": "พญาไท",
+      "english_name": "Phaya Thai",
+      "zone": "north"
+    },
+    {
+      "station_id": "CEN",
+      "thai_name": "สยาม",
+      "english_name": "Siam",
+      "zone": "central"
+    },
+    {
+      "station_id": "E1",
+      "thai_name": "ชิดลม",
+      "english_name": "Chit Lom",
+      "zone": "east"
+    },
+    {
+      "station_id": "E2",
+      "thai_name": "เพลินจิต",
+      "english_name": "Phloen Chit",
+      "zone": "east"
+    },
+    {
+      "station_id": "E3",
+      "thai_name": "นานา",
+      "english_name": "Nana",
+      "zone": "east"
+    },
+    {
+      "station_id": "E4",
+      "thai_name": "อโศก",
+      "english_name": "Asok",
+      "zone": "east"
+    },
+    {
+      "station_id": "E5",
+      "thai_name": "พร้อมพงษ์",
+      "english_name": "Phrom Phong",
+      "zone": "east"
+    },
+    {
+      "station_id": "E6",
+      "thai_name": "ทองหล่อ",
+      "english_name": "Thong Lo",
+      "zone": "east"
+    },
+    {
+      "station_id": "E7",
+      "thai_name": "เอกมัย",
+      "english_name": "Ekkamai",
+      "zone": "east"
+    },
+    {
+      "station_id": "E8",
+      "thai_name": "พระโขนง",
+      "english_name": "Phra Khanong",
+      "zone": "east"
+    },
+    {
+      "station_id": "E9",
+      "thai_name": "อ่อนนุช",
+      "english_name": "On Nut",
+      "zone": "east"
+    },
+    {
+      "station_id": "E10",
+      "thai_name": "บางจาก",
+      "english_name": "Bang Chak",
+      "zone": "east"
+    },
+    {
+      "station_id": "E11",
+      "thai_name": "ปุณณวิถี",
+      "english_name": "Punnawithi",
+      "zone": "east"
+    },
+    {
+      "station_id": "E12",
+      "thai_name": "อุดมสุข",
+      "english_name": "Udom Suk",
+      "zone": "east"
+    },
+    {
+      "station_id": "E13",
+      "thai_name": "บางนา",
+      "english_name": "Bang Na",
+      "zone": "east"
+    },
+    {
+      "station_id": "E14",
+      "thai_name": "แบริ่ง",
+      "english_name": "Bearing",
+      "zone": "east"
+    },
+    {
+      "station_id": "E15",
+      "thai_name": "สำโรง",
+      "english_name": "Samrong",
+      "zone": "southeast"
+    },
+    {
+      "station_id": "E16",
+      "thai_name": "ปู่เจ้า",
+      "english_name": "Pu Chao",
+      "zone": "southeast"
+    },
+    {
+      "station_id": "E17",
+      "thai_name": "ช้างเอราวัณ",
+      "english_name": "Chang Erawan",
+      "zone": "southeast"
+    },
+    {
+      "station_id": "E18",
+      "thai_name": "โรงเรียนนายเรือ",
+      "english_name": "Royal Thai Naval Academy",
+      "zone": "southeast"
+    },
+    {
+      "station_id": "E19",
+      "thai_name": "ปากน้ำ",
+      "english_name": "Pak Nam",
+      "zone": "southeast"
+    },
+    {
+      "station_id": "E20",
+      "thai_name": "ศรีนครินทร์",
+      "english_name": "Srinagarindra",
+      "zone": "southeast"
+    },
+    {
+      "station_id": "E21",
+      "thai_name": "แพรกษา",
+      "english_name": "Phraek Sa",
+      "zone": "southeast"
+    },
+    {
+      "station_id": "E22",
+      "thai_name": "สายลวด",
+      "english_name": "Sai Luat",
+      "zone": "southeast"
+    },
+    {
+      "station_id": "E23",
+      "thai_name": "เคหะ",
+      "english_name": "Kheha",
+      "zone": "southeast"
+    },
+    {
+      "station_id": "E24",
+      "thai_name": "คูคต",
+      "english_name": "Khu Khot",
+      "zone": "southeast"
+    }
+  ],
+  "interchange_stations": [
+    {
+      "station_id": "CEN",
+      "thai_name": "สยาม",
+      "english_name": "Siam",
+      "connecting_lines": ["BTS Silom Line"]
+    },
+    {
+      "station_id": "E4",
+      "thai_name": "อโศก",
+      "english_name": "Asok",
+      "connecting_lines": ["MRT Blue Line (Sukhumvit Station)"]
+    },
+    {
+      "station_id": "N8",
+      "thai_name": "หมอชิต",
+      "english_name": "Mo Chit",
+      "connecting_lines": ["MRT Blue Line (Chatuchak Park Station)"]
+    },
+    {
+      "station_id": "N1",
+      "thai_name": "พญาไท",
+      "english_name": "Phaya Thai",
+      "connecting_lines": ["Airport Rail Link"]
+    }
+  ],
+  "metadata": {
+    "created_date": "2025-06-13",
+    "data_version": "1.0",
+    "last_updated": "2025-06-13",
+    "notes": "BTS Sukhumvit Line extension to Khu Khot completed in 2023"
+  }
+}

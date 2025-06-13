@@ -1,0 +1,326 @@
+{
+  "line_info": {
+    "thai_name": "สายสีเหลือง",
+    "english_name": "Yellow Line",
+    "color": "สีเหลือง",
+    "color_code": "#FFD700",
+    "total_stations": 30,
+    "total_distance_km": 30.4,
+    "train_type": "mrt",
+    "line_code": "yellow_line",
+    "operator": "Mass Rapid Transit Authority of Thailand (MRTA)",
+    "line_type": "linear"
+  },
+  "stations": [
+    {
+      "station_id": "YL01",
+      "thai_name": "ลาดพร้าว",
+      "english_name": "Lat Phrao",
+      "zone": "central"
+    },
+    {
+      "station_id": "YL02",
+      "thai_name": "พหลโยธิน 59",
+      "english_name": "Phahon Yothin 59",
+      "zone": "north"
+    },
+    {
+      "station_id": "YL03",
+      "thai_name": "โชคชัย 4",
+      "english_name": "Chokchai 4",
+      "zone": "north"
+    },
+    {
+      "station_id": "YL04",
+      "thai_name": "ลาดพร้าว 71",
+      "english_name": "Lat Phrao 71",
+      "zone": "northeast"
+    },
+    {
+      "station_id": "YL05",
+      "thai_name": "ลาดพร้าว 83",
+      "english_name": "Lat Phrao 83",
+      "zone": "northeast"
+    },
+    {
+      "station_id": "YL06",
+      "thai_name": "มหาดไทย",
+      "english_name": "Mahat Thai",
+      "zone": "northeast"
+    },
+    {
+      "station_id": "YL07",
+      "thai_name": "ลาดพร้าว 101",
+      "english_name": "Lat Phrao 101",
+      "zone": "northeast"
+    },
+    {
+      "station_id": "YL08",
+      "thai_name": "บางกะปิ",
+      "english_name": "Bang Kapi",
+      "zone": "northeast"
+    },
+    {
+      "station_id": "YL09",
+      "thai_name": "แยกลำสาลี",
+      "english_name": "Yaek Lam Sali",
+      "zone": "northeast"
+    },
+    {
+      "station_id": "YL10",
+      "thai_name": "สีกัน",
+      "english_name": "Si Kritha",
+      "zone": "northeast"
+    },
+    {
+      "station_id": "YL11",
+      "thai_name": "หัวหมาก",
+      "english_name": "Hua Mak",
+      "zone": "east"
+    },
+    {
+      "station_id": "YL12",
+      "thai_name": "รามคำแหง",
+      "english_name": "Ramkhamhaeng",
+      "zone": "east"
+    },
+    {
+      "station_id": "YL13",
+      "thai_name": "รามคำแหง 12",
+      "english_name": "Ramkhamhaeng 12",
+      "zone": "east"
+    },
+    {
+      "station_id": "YL14",
+      "thai_name": "มหาวิทยาลัยเทคโนโลยีราชมงคลกรุงเทพ",
+      "english_name": "Rajamangala University of Technology Krungthep",
+      "zone": "east"
+    },
+    {
+      "station_id": "YL15",
+      "thai_name": "วังทองหลาง",
+      "english_name": "Wang Thonglang",
+      "zone": "east"
+    },
+    {
+      "station_id": "YL16",
+      "thai_name": "แฮปปี้แลนด์",
+      "english_name": "Happyland",
+      "zone": "east"
+    },
+    {
+      "station_id": "YL17",
+      "thai_name": "คลองบ้านม้า",
+      "english_name": "Khlong Ban Ma",
+      "zone": "east"
+    },
+    {
+      "station_id": "YL18",
+      "thai_name": "ลาดพร้าววังหิน",
+      "english_name": "Lat Phrao Wang Hin",
+      "zone": "east"
+    },
+    {
+      "station_id": "YL19",
+      "thai_name": "สุวินทวงศ์",
+      "english_name": "Suwinthawong",
+      "zone": "east"
+    },
+    {
+      "station_id": "YL20",
+      "thai_name": "หนองจอก",
+      "english_name": "Nong Chok",
+      "zone": "east"
+    },
+    {
+      "station_id": "YL21",
+      "thai_name": "มีนบุรี",
+      "english_name": "Min Buri",
+      "zone": "east"
+    },
+    {
+      "station_id": "YL22",
+      "thai_name": "มีนบุรีตลาด",
+      "english_name": "Min Buri Market",
+      "zone": "east"
+    },
+    {
+      "station_id": "YL23",
+      "thai_name": "คลอง 15",
+      "english_name": "Khlong 15",
+      "zone": "east"
+    },
+    {
+      "station_id": "YL24",
+      "thai_name": "โรมเกล้า",
+      "english_name": "Romklao",
+      "zone": "east"
+    },
+    {
+      "station_id": "YL25",
+      "thai_name": "วัดศรีวารีน้อย",
+      "english_name": "Wat Sri Waree Noi",
+      "zone": "southeast"
+    },
+    {
+      "station_id": "YL26",
+      "thai_name": "วัดบัวขวัญ",
+      "english_name": "Wat Bua Khwan",
+      "zone": "southeast"
+    },
+    {
+      "station_id": "YL27",
+      "thai_name": "ศรีนครินทร์ 38",
+      "english_name": "Srinagarindra 38",
+      "zone": "southeast"
+    },
+    {
+      "station_id": "YL28",
+      "thai_name": "ศรีนครินทร์ 46",
+      "english_name": "Srinagarindra 46",
+      "zone": "southeast"
+    },
+    {
+      "station_id": "YL29",
+      "thai_name": "ศรีนครินทร์ 50",
+      "english_name": "Srinagarindra 50",
+      "zone": "southeast"
+    },
+    {
+      "station_id": "YL30",
+      "thai_name": "สำโรง",
+      "english_name": "Samrong",
+      "zone": "southeast"
+    }
+  ],
+  "interchange_stations": [
+    {
+      "station_id": "YL01",
+      "thai_name": "ลาดพร้าว",
+      "english_name": "Lat Phrao",
+      "connecting_lines": ["MRT Blue Line"]
+    },
+    {
+      "station_id": "YL11",
+      "thai_name": "หัวหมาก",
+      "english_name": "Hua Mak",
+      "connecting_lines": ["Airport Rail Link"]
+    },
+    {
+      "station_id": "YL12",
+      "thai_name": "รามคำแหง",
+      "english_name": "Ramkhamhaeng",
+      "connecting_lines": ["Airport Rail Link"]
+    },
+    {
+      "station_id": "YL30",
+      "thai_name": "สำโรง",
+      "english_name": "Samrong",
+      "connecting_lines": ["BTS Sukhumvit Line"]
+    }
+  ],
+  "terminal_stations": [
+    {
+      "station_id": "YL01",
+      "thai_name": "ลาดพร้าว",
+      "english_name": "Lat Phrao",
+      "terminus_type": "northwest_terminus"
+    },
+    {
+      "station_id": "YL30",
+      "thai_name": "สำโรง",
+      "english_name": "Samrong",
+      "terminus_type": "southeast_terminus"
+    }
+  ],
+  "districts_served": [
+    {
+      "district": "Chatuchak",
+      "thai_name": "จตุจักร",
+      "stations": ["YL01", "YL02", "YL03"]
+    },
+    {
+      "district": "Wang Thonglang",
+      "thai_name": "วังทองหลาง",
+      "stations": ["YL04", "YL05", "YL06", "YL07", "YL08", "YL09", "YL10", "YL11", "YL12", "YL13", "YL14", "YL15"]
+    },
+    {
+      "district": "Saphan Phut",
+      "thai_name": "สะพานพุทธ",
+      "stations": ["YL16", "YL17", "YL18"]
+    },
+    {
+      "district": "Min Buri",
+      "thai_name": "มีนบุรี",
+      "stations": ["YL19", "YL20", "YL21", "YL22", "YL23", "YL24"]
+    },
+    {
+      "district": "Lat Krabang",
+      "thai_name": "ลาดกระบัง",
+      "stations": ["YL25", "YL26", "YL27", "YL28", "YL29"]
+    },
+    {
+      "district": "Phra Pradaeng (Samut Prakan)",
+      "thai_name": "พระประแดง (สมุทรปราการ)",
+      "stations": ["YL30"]
+    }
+  ],
+  "special_features": [
+    {
+      "feature": "airport_connection",
+      "description": "Connects to Airport Rail Link at Hua Mak and Ramkhamhaeng stations"
+    },
+    {
+      "feature": "university_access",
+      "description": "Direct access to Rajamangala University of Technology Krungthep"
+    },
+    {
+      "feature": "eastern_bangkok_coverage",
+      "description": "Serves eastern districts including Min Buri and Lat Krabang"
+    },
+    {
+      "feature": "inter_province_connection",
+      "description": "Connects Bangkok to Samut Prakan Province"
+    }
+  ],
+  "operating_hours": {
+    "weekdays": "06:00 - 24:00",
+    "weekends": "06:00 - 24:00",
+    "frequency_peak": "5-7 minutes",
+    "frequency_off_peak": "8-12 minutes"
+  },
+  "zones": [
+    {
+      "zone_name": "central",
+      "description": "Connection point with MRT Blue Line",
+      "stations": ["YL01"]
+    },
+    {
+      "zone_name": "north",
+      "description": "Northern Bangkok residential areas",
+      "stations": ["YL02", "YL03"]
+    },
+    {
+      "zone_name": "northeast",
+      "description": "Northeastern Bangkok residential and commercial areas",
+      "stations": ["YL04", "YL05", "YL06", "YL07", "YL08", "YL09", "YL10"]
+    },
+    {
+      "zone_name": "east",
+      "description": "Eastern Bangkok including universities and residential areas",
+      "stations": ["YL11", "YL12", "YL13", "YL14", "YL15", "YL16", "YL17", "YL18", "YL19", "YL20", "YL21", "YL22", "YL23", "YL24"]
+    },
+    {
+      "zone_name": "southeast",
+      "description": "Southeastern areas extending to Samut Prakan",
+      "stations": ["YL25", "YL26", "YL27", "YL28", "YL29", "YL30"]
+    }
+  ],
+  "metadata": {
+    "created_date": "2025-06-13",
+    "data_version": "1.0",
+    "last_updated": "2025-06-13",
+    "opening_date": "2023-06-03",
+    "notes": "MRT Yellow Line serves eastern Bangkok and connects to Samut Prakan, providing access to residential areas and educational institutions"
+  }
+}
