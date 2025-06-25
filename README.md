@@ -1,3 +1,3 @@
 # Vibe Metro Station
 
-Metro stations in Thailand, especially in Bangkok, are part of an efficient mass transit system including the MRT and BTS. They offer fast, air-conditioned, and affordable travel, connecting key city areas, business hubs, shopping centers, and cultural landmarks.
+Vibe Metro Station guides you through Thailand’s metro system, including MRT and BTS. Enjoy fast, affordable, air-conditioned travel connecting business hubs, shopping centers, and landmarks across Bangkok with ease and convenience.
